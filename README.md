@@ -27,7 +27,7 @@ g++ MontyHallProblem.cpp -o Monty_Hall_Problem  # Creates an executable named Mo
 Then, run the program:
 
 ```
-./monty_hall
+./Monty_Hall_Problem
 ```
 
 ### Customization (Optional):
